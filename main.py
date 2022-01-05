@@ -15,5 +15,7 @@ if __name__ == '__main__':
 
 print("AAA")
 print("AAA")
+print("AAA")
+print("BBB")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
