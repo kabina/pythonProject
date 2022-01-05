@@ -17,5 +17,7 @@ print("AAA")
 print("AAA")
 print("AAA")
 print("BBB")
+print("CCC")
+print("DDD")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
